@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/basicreact2/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/basicreact2/static/js/main.84b451a6.chunk.js",
+    "main.js.map": "/basicreact2/static/js/main.84b451a6.chunk.js.map",
+    "runtime-main.js": "/basicreact2/static/js/runtime-main.c28fb009.js",
+    "runtime-main.js.map": "/basicreact2/static/js/runtime-main.c28fb009.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/basicreact2/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f48fbbcf.chunk.js": "/basicreact2/static/js/2.f48fbbcf.chunk.js",
+    "static/js/2.f48fbbcf.chunk.js.map": "/basicreact2/static/js/2.f48fbbcf.chunk.js.map",
+    "index.html": "/basicreact2/index.html",
+    "precache-manifest.fcb7da5db62247a24151c2acd592f196.js": "/basicreact2/precache-manifest.fcb7da5db62247a24151c2acd592f196.js",
+    "service-worker.js": "/basicreact2/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/basicreact2/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/basicreact2/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.f48fbbcf.chunk.js.LICENSE.txt": "/basicreact2/static/js/2.f48fbbcf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c28fb009.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f48fbbcf.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.84b451a6.chunk.js"
+  ]
+}
